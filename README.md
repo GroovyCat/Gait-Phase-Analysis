@@ -15,3 +15,5 @@
 * kaggle에 오픈된 gait-phase-dataset을 사용해 보행 단계를 분석함.
 * 데이터셋에 대한 자세한 설명은 위 링크를 통해 확인하기 바람.
 * 해당 분석에서 쓰인 LSTM의 하이퍼 파라미터 소개
+![lstm](https://user-images.githubusercontent.com/15725909/105153664-0ab1d200-5b4c-11eb-8706-986a0ea3bf22.png)
+
